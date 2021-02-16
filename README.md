@@ -20,6 +20,8 @@
 
 ## About
 
+This project contained two sections. In the first section, various classification algorithms were used to first train on a training set and a label set, and then test the accuracy of the classification method on a testing set. The sets were very sparse and had a very large amount of classifiers. In the second section of the project, various data mining techniques were used to test for correlations between the types of used cars purchased, and hand-picked demographic attributes about the corresponding purchasers. The demographic dataset was very sparse with a large amount of attributes to choose from.
+
 ### Classification
 
 A training data set along with its corresponding label data set was used to predict label data for a testing data set. Each record (information ID) in the training and testing data sets had a massive number of attributes (features IDs) and corresponding attribute values (feature values) that could be used to train the classification algorithm. Many different classification algorithms were used in the prediction, and the results were documented in the report.
